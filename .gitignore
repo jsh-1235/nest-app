@@ -36,4 +36,4 @@ lerna-debug.log*
 
 # User
 
-/src/config/env/*.env
+#/src/config/env/*.env
